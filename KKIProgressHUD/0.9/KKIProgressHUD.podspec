@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.author = {"iris" => "728125282@qq.com"}
   s.platform = :ios, "8.0"
 
-  s.source = { :http => "http://47.103.126.229/project/zip/KKIProgressHUD.zip", :sha1 => "fd7789c7bec105a465ea7c179fd89eb36bb294cc" }
+  s.source = { :http => "http://47.103.126.229/project/zip/KKIProgressHUD.zip", :sha1 => "ece3b92ee201f869f2d2aa81e59dac265306f1ef" }
   s.vendored_frameworks = "KKIProgressHUD/KKIProgressHUD.framework"
   s.frameworks = "UIKit"
   s.libraries = "iconv", "resolv"
